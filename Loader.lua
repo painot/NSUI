@@ -6,6 +6,8 @@ local Supported = loadstring(game:HttpGet(getgenv().GitHubURL  .. "Supported.lua
 
 for placeid, placename in pairs(Supported) do
     if placeid == game.PlaceId then
-        loadstring(game:HttpGet(getgenv().GitHubURL .. "ScriptSources/" .. placename))()
+        loadstring(game:HttpGet(getgenv().GitHubURL .. "Sources/" .. placename))()
     end
 end
+
+loadstring(game:HttpGet(getgenv().GitHubURL .. "Utilities/RunOnStartUp.lua"))()

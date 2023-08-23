@@ -2,6 +2,6 @@
 
 Paving the way to automation.
 
-## About
+### About
 
 Solo developer project created dedicated to assist users.

@@ -1,4 +1,4 @@
-# NSUI (UI Library)
+# NSUI
 
 ## Description
 - Easy to use UI Library

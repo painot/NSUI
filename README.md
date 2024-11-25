@@ -1,15 +1,15 @@
-# 🚀 NSUI (UI Library)
+# NSUI (UI Library)
 
-## 📋 Description
+## Description
 - Easy to use UI Library
 - Originally created by Sirius
 
-## 🔧 Features
+## Features
 - **Common UI elements**: Dropdowns, buttons, boxes, labels, checkboxes etc
 - **API Integration**: Integrated with my very own API system
 - **Additional things**: Key system, integrated webhook, notifications
 
-## 🛠️ Usage
+## Usage
 
 ```Lua
 local NSUI = require(...)
